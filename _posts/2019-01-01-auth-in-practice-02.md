@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 #### Delegated Authorization
 In the previous [article](https://ehsankorhani.com/blog/2018/12/15/auth-in-practice-01) we discussed the problem of a client application accessing user data in a resource server.
 
-<img src="/assets/security-httpBasicAuthentication.gif" alt="Diagram of four steps in HTTP basic authentication between client and server (docs.oracle.com)" />
+<img src="/images/security-httpBasicAuthentication.gif" alt="Diagram of four steps in HTTP basic authentication between client and server (docs.oracle.com)" />
 
 <!--more-->
 

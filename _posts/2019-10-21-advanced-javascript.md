@@ -7,7 +7,7 @@ categories: [JavaScript]
 excerpt_separator: <!--more-->
 ---
 
-<img src="/assets/js-code-01.png" />
+<img src="/images/js-code-01.png" />
 
 This article is going to discuss a more advanced topics of JavaScript language. This is journey to examine the different, wierd or specific features of JavaScript and also to practice the better ways to coding.
 
