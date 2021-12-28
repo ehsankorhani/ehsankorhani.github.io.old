@@ -3,6 +3,7 @@ layout: post
 title: "Designing a Web API – Introduction"
 date: 2016-11-22
 author: ehsan
+categories: [API, Rest]
 excerpt_separator: <!--more-->
 ---
 
