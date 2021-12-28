@@ -33,11 +33,11 @@ Again, there are different views on that.
 
 One approach is to create a folder for all the modules with the same type.
 
-<img src="/assets/images/js-structure-01.jpg" />
+<img src="/assets/js-structure-01.jpg" />
 
 Another approach is to separate different sections by their responsibility.
 
-<img src="/assets/images/js-structure-01.jpg" />
+<img src="/assets/js-structure-01.jpg" />
 
 The correct choice depends on the nature of the project, however, I personally prefer the 2nd approach.
 

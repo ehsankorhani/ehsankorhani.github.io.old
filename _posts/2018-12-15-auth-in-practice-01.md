@@ -12,7 +12,7 @@ Authentication and Authorization are an important concepts in any type of softwa
 #### Basic Authentication
 _Basic_ and _Forms_ authentication approaches were sufficient enough if the _Resource Owner_ (or User) wanted to access their own data on a remote server.
 
-<img src="/assets/images/security-httpBasicAuthentication.gif" alt="Diagram of four steps in HTTP basic authentication between client and server (docs.oracle.com)" />
+<img src="/assets/security-httpBasicAuthentication.gif" alt="Diagram of four steps in HTTP basic authentication between client and server (docs.oracle.com)" />
 
 <!--more-->
 

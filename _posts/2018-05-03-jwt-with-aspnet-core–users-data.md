@@ -15,9 +15,9 @@ The token we receive from the user requests should include their identity, claim
 Obviously, there should be a persistence location to store. The database tables which hold user identity and claims could be in the following shape:
 
 
-<img src="/assets/images/UserTable.jpg" alt="User table" />
+<img src="/assets/UserTable.jpg" alt="User table" />
 
-<img src="/assets/images/UserClaimTable.jpg" alt="UserClaim table" />
+<img src="/assets/UserClaimTable.jpg" alt="UserClaim table" />
 
 
 **DbContext**

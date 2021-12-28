@@ -11,7 +11,7 @@ JavaScript can handles events in two different ways:
 1. Phase 1: Event Capturing
 2. Phase 2: Event Bubbling
 
-<img src="/assets/images/js-event-capture-bubble.png" alt="Event Bubbling and Event Capturing (https://medium.com/@vsvaibhav2016/event-bubbling-and-event-capturing-in-javascript-6ff38bec30e)" />
+<img src="/assets/js-event-capture-bubble.png" alt="Event Bubbling and Event Capturing (https://medium.com/@vsvaibhav2016/event-bubbling-and-event-capturing-in-javascript-6ff38bec30e)" />
 
 <!--more-->
 
