@@ -61,6 +61,8 @@ $ sf config set target-org=me@myhub.org
 $ sf org delete scratch -o my-scratch-org
 ```
 
+<!--more-->
+
 ---
 ### References
 
