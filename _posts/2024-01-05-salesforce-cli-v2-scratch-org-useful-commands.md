@@ -64,4 +64,4 @@ $ sf org delete scratch -o my-scratch-org
 ---
 ### References
 
-- https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_uninstall.htm
+- [Uninstall Salesforce CLI or Plugins](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_uninstall.htm)
